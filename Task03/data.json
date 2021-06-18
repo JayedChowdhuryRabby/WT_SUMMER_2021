@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Jayed rabby",
+        "Email": "rabby123@gmail.com",
+        "Password": "fhrhfjrhkf657f98we",
+        "Comment": "Comment for test",
+        "Gender": "Male",
+        "Hobby": "Dancing,Singing",
+        "File_Path": "files\/Annotation 2020-07-19 082735.png"
+    },
+    {
+        "Name": "batin",
+        "Email": "batin123@gmail.com",
+        "Password": "fhrhgurgkje54g54tegt",
+        "Comment": "jfherguiejre45g7",
+        "Gender": "Male",
+        "Hobby": "Dancing",
+        "File_Path": "files\/Screenshot 2021-01-13 200239.png"
+    }
+]
